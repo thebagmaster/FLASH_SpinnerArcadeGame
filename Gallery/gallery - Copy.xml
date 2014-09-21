@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY backcolor="0x000000" width="600" height="200" image_width="200" image_height="125" border_w="5" border_c="0xFFFFFF" glow="0xFFFFFF" glow_w = "50" glow_a = "0.5">
+<IMAGE url="images/google.png" />
+<IMAGE url="images/facebook.png" />
+<IMAGE url="images/myspace.png" />
+<IMAGE url="images/youtube.png" />
+<IMAGE url="images/newegg.png" />
+<IMAGE url="images/btjunkie.png" />
+<IMAGE url="images/craigslist.png" />
+<IMAGE url="images/imageshack.png" />
+<IMAGE url="images/imageshack.png" />
+<IMAGE url="images/imageshack.png" />
+</GALLERY>

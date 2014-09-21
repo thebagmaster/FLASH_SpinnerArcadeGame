@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GALLERY backcolor="0x000000" width="800" height="550" image_width="312" image_height="175" border_w="5" border_c="0xFFFFFF" glow="0xFFFFFF" glow_w = "50" glow_a = "0.5" tween_speed = "0.6">
+<IMAGE url="images/thumbnails/Gigapan/1.jpg" link="images/content/Gigapan/1.jpg" type="gig" folder="Gigapan"/>
+<IMAGE url="images/thumbnails/Gigapan/2.jpg" link="images/content/Gigapan/2.jpg" type="gig" folder="Gigapan"/>
+<IMAGE url="images/thumbnails/Gigapan/3.jpg" link="images/content/Gigapan/3.jpg" type="gig" folder="Gigapan"/>
+<IMAGE url="images/thumbnails/Video/1.jpg" link="images/content/Video/1.flv" type="vid" folder="Video"/>
+<IMAGE url="images/thumbnails/Video/2.jpg" link="images/content/Video/2.flv" type="vid" folder="Video"/>
+<IMAGE url="images/thumbnails/video/3.jpg" link="images/content/Video/3.flv" type="vid" folder="Video"/>
+<IMAGE url="images/thumbnails/Music/1.jpg" link="" type="" folder="Music"/>
+<IMAGE url="images/thumbnails/Music/2.jpg" link="" type="" folder="Music"/>
+<IMAGE url="images/thumbnails/Music/3.jpg" link="" type="" folder="Music"/>
+<IMAGE url="images/thumbnails/Music/4.jpg" link="" type="" folder="Music"/>
+<IMAGE url="images/thumbnails/Design/1.jpg" link="images/content/Design/1.jpg" type="pic" folder="Design"/>
+<IMAGE url="images/thumbnails/Design/2.jpg" link="images/content/Design/2.jpg" type="pic" folder="Design"/>
+</GALLERY>
